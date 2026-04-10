@@ -34,8 +34,7 @@ Sales dataset containing:
 - Sales Amount
 - Quantity Sold
 
-Source:
-`/Volumes/project_catalog/medallion_project/myvolume/sales_data.csv`
+
 
 ---
 
